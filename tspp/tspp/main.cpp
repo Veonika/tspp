@@ -861,60 +861,6 @@ class Console
 			}
 		}
 
-		/*void write_file_catalogue()            
-		{
-			system("cls");
-			ofstream t1;
-			t1.open("catalogue.txt", ios::out);         
-			if (!t1)                     
-			{
-				system("cls");
-				cout << "Файл не открыт" << endl;
-				cout << "введите ENTER" << endl;
-				while (1)
-				{
-					if (_getch() == ENTER)
-						return;	                   
-				}
-			}
-			list <Product*> *pr = catalogue->get_products();
-			for (list <Product*>::iterator it = pr->begin(); it != pr->end(); ++it)
-			{
-				t1 << (*it)->getname() << endl << (*it)->gettype() << endl << (*it)->getnumber() << endl << (*it)->getprice() << (*it)->getavailability() ;
-				if ((*it) != pr->back()) t1 << endl;      
-			}
-			t1.close();       
-		}
-
-		void write_file_historybuying()
-		{
-			system("cls");
-			ofstream t1;
-			t1.open("historybuying.txt", ios::out);
-			if (!t1)
-			{
-				system("cls");
-				cout << "Файл не открыт" << endl;
-				cout << "введите ENTER" << endl;
-				while (1)
-				{
-					if (_getch() == ENTER)
-						return;
-				}
-			}
-			list <Bill*> *b = historybuying->getbills();
-			for (list <Bill*>::iterator it = b->begin(); it != b->end(); ++it)
-			{
-				t1 << (*it)->getID() << endl << (*it)->getFIO() << endl << (*it)->getdate().d << endl << (*it)->getdate().m << endl << (*it)->getdate().y << endl;
-				for (vector<pair<string, int>>::iterator it1 = (*it)->getproduct()->begin(); it1 != (*it)->getproduct()->end(); ++it1)
-				{
-					t1 << it1->first << endl << it1->second << endl;
-				}
-				if ((*it) != b->back()) t1 << endl;
-			}
-			t1.close();
-		}*/
-
 		~Console()
 		{
 			delete catalogue;

@@ -1,0 +1,327 @@
+﻿  main.cpp
+c:\users\пользователь\source\repos\project1\project1\level.h(60): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\level.h(70): error C2065: TiXmlDocument: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(70): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "levelFile"
+c:\users\пользователь\source\repos\project1\project1\level.h(70): error C3861: levelFile: идентификатор не найден
+c:\users\пользователь\source\repos\project1\project1\level.h(73): error C2065: levelFile: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(80): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(80): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(81): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(81): error C2065: levelFile: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(85): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(86): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(87): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(88): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(91): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(91): error C2065: tilesetElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(92): error C2065: tilesetElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(92): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(93): error C2065: tilesetElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(96): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(96): error C2065: image: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(97): error C2065: image: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(97): error C2065: tilesetElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(98): error C2065: image: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(135): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(135): error C2065: layerElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(136): error C2065: layerElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(136): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(137): error C2065: layerElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(142): error C2065: layerElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(144): error C2065: layerElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(145): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\level.h(153): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(153): error C2065: layerDataElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(154): error C2065: layerDataElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(154): error C2065: layerElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(156): error C2065: layerDataElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(162): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(162): error C2065: tileElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(163): error C2065: tileElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(163): error C2065: layerDataElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(165): error C2065: tileElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(174): error C2065: tileElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(176): error C2065: tileElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(185): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\level.h(191): error C2065: tileElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(205): error C2065: layerElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(209): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(209): error C2065: objectGroupElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(212): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(214): error C2065: objectGroupElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(214): error C2065: map: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(215): error C2065: objectGroupElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(218): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(218): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(219): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(219): error C2065: objectGroupElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(221): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(225): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(227): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(230): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(232): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(234): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(235): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(242): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\level.h(244): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(246): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(247): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(251): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(252): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(253): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(263): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\пользователь\source\repos\project1\project1\level.h(264): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\пользователь\source\repos\project1\project1\level.h(265): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\пользователь\source\repos\project1\project1\level.h(266): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\пользователь\source\repos\project1\project1\level.h(270): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(270): error C2065: properties: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(271): error C2065: properties: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(271): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(272): error C2065: properties: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(274): error C2065: TiXmlElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(274): error C2065: prop: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(275): error C2065: prop: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(275): error C2065: properties: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(276): error C2065: prop: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(278): error C2065: prop: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(280): error C2065: prop: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(281): error C2065: prop: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(285): error C2065: prop: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(293): error C2065: objectElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\level.h(295): error C2065: objectGroupElement: необъявленный идентификатор
+c:\users\пользователь\source\repos\project1\project1\main.cpp(186): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(257): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\пользователь\source\repos\project1\project1\main.cpp(263): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(270): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(277): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(284): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(291): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(298): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(305): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(312): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(319): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(411): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(412): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(484): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(491): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(497): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(504): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(511): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(546): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(553): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(559): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(566): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(573): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(656): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(663): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(669): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(676): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(683): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(690): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(697): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(703): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(710): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(717): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(749): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(762): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(766): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(797): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(886): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\пользователь\source\repos\project1\project1\main.cpp(892): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(899): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(943): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(944): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(976): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(977): warning C4244: =: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1022): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1029): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1036): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1049): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1050): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1087): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1088): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1137): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1145): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1151): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1158): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\users\пользователь\source\repos\project1\project1\main.cpp(1466): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
