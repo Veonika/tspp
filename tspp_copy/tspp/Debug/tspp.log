@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\пользователь\source\repos\tspp\tspp\main.cpp(139): warning C4715: Catalogue_Product::give_product_name: значение возвращается не при всех путях выполнения
+c:\users\пользователь\source\repos\tspp\tspp\main.cpp(299): warning C4715: HistoryBuying::searchproduct: значение возвращается не при всех путях выполнения
+  tspp.vcxproj -> C:\Users\Пользователь\source\repos\tspp\Debug\tspp.exe
